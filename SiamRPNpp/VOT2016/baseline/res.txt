@@ -1,0 +1,79 @@
+bag :  0.588924463527898 [2]
+/data/xmf/OSRBA/pysot/pysot/toolkit/utils/statistics.py:55: RuntimeWarning: Mean of empty slice
+  acc = np.nanmean(overlaps)
+ball1 :  nan [13]
+/data/xmf/OSRBA/pysot/pysot/toolkit/utils/statistics.py:55: RuntimeWarning: Mean of empty slice
+  acc = np.nanmean(overlaps)
+ball2 :  nan [5]
+basketball :  0.5119229812388112 [21]
+/data/xmf/OSRBA/pysot/pysot/toolkit/utils/statistics.py:55: RuntimeWarning: Mean of empty slice
+  acc = np.nanmean(overlaps)
+birds1 :  nan [43]
+birds2 :  0.38599830836696025 [3]
+blanket :  0.20904011086244648 [10]
+bmx :  0.19470201950929494 [0]
+bolt1 :  0.6291185704200235 [14]
+bolt2 :  0.6369879895670189 [16]
+book :  0.23954456020146608 [19]
+butterfly :  0.37538616980115574 [7]
+car1 :  0.43923753631465573 [80]
+car2 :  0.1043219044804573 [46]
+crossing :  0.5415064365655746 [1]
+dinosaur :  0.24437079871087475 [17]
+fernando :  0.26229717237753913 [28]
+fish1 :  0.45821792513275533 [28]
+fish2 :  0.37464508467849394 [15]
+fish3 :  0.6091057930977761 [21]
+fish4 :  0.37297768248820184 [55]
+girl :  0.4847357060336427 [58]
+glove :  0.40135266191972385 [7]
+godfather :  0.3484428577567087 [19]
+graduate :  0.3598938778425883 [15]
+gymnastics1 :  0.4222822932581484 [39]
+gymnastics2 :  0.47011108450964095 [11]
+gymnastics3 :  0.2969310213625431 [7]
+gymnastics4 :  0.5077182247788621 [27]
+hand :  0.2608407570514828 [30]
+handball1 :  0.5813909240363054 [29]
+handball2 :  0.6796321959001943 [45]
+helicopter :  0.6123607736266383 [22]
+iceskater1 :  0.3202514079482091 [40]
+iceskater2 :  0.4105781950999464 [22]
+/data/xmf/OSRBA/pysot/pysot/toolkit/utils/statistics.py:55: RuntimeWarning: Mean of empty slice
+  acc = np.nanmean(overlaps)
+leaves :  nan [9]
+marching :  0.2701807057573682 [12]
+matrix :  0.29229865968227386 [9]
+motocross1 :  0.5109699144928814 [9]
+motocross2 :  0.3810636508019848 [1]
+nature :  0.47537730425993036 [81]
+octopus :  0.35027703111940917 [2]
+pedestrian1 :  0.46845577815745737 [7]
+pedestrian2 :  0.5035061772599244 [5]
+/data/xmf/OSRBA/pysot/pysot/toolkit/utils/statistics.py:55: RuntimeWarning: Mean of empty slice
+  acc = np.nanmean(overlaps)
+rabbit :  nan [20]
+racing :  0.38052385822706614 [4]
+road :  0.45693561479500006 [26]
+shaking :  0.639845794339369 [30]
+sheep :  0.48995994393470454 [20]
+singer1 :  0.628829673965965 [4]
+singer2 :  0.5881118458181397 [2]
+singer3 :  0.24851497806693343 [7]
+soccer1 :  0.595595641150361 [51]
+/data/xmf/OSRBA/pysot/pysot/toolkit/utils/statistics.py:55: RuntimeWarning: Mean of empty slice
+  acc = np.nanmean(overlaps)
+soccer2 :  nan [21]
+soldier :  0.5057063400745392 [16]
+sphere :  0.33680638152041603 [20]
+tiger :  0.31498201764588885 [20]
+traffic :  0.5735748514533043 [14]
+tunnel :  0.46667958010692856 [15]
+wiper :  0.24549792675922313 [39]
+eval ar: 100%|████████████████████████████████████████████████████████| 1/1 [00:00<00:00,  1.09it/s]
+eval eao: 100%|███████████████████████████████████████████████████████| 1/1 [00:11<00:00, 11.70s/it]
+---------------------------------------------------------------------
+|    Tracker Name     | Accuracy | Robustness | Lost Number |  EAO  |
+---------------------------------------------------------------------
+| SiamRPN++(Original) |  0.465   |   5.868    |   1259.0    | 0.020 |
+---------------------------------------------------------------------
